@@ -22,3 +22,6 @@ composer.lock
 
 library/Zend
 tests/log
+
+cache
+logs
